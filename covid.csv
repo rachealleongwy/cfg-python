@@ -1,0 +1,17 @@
+year,country,region,confirmed,deaths
+2020,malaysia,asia,"5,482",92
+2020,united states,north america,"819,175","45,343"
+2020,spain,europe,"204,178","21,282"
+2020,italy,europe,"183,957","24,648"
+2020,germany,europe,"148,453","5,086"
+2020,united kingdom,europe,"129,044","17,337"
+2020,france,europe,"158,050","20,796"
+2020,singapore,asia,"10,141",11
+2020,china,asia,"82,788","4,632"
+2020,brazil,south america,"43,368","2,761"
+2020,south korea,asia,"10,694",238
+2020,japan,asia,"12,224",294
+2020,australia,oceania,"6,647",74
+2020,south africa,africa,"3,465",58
+2020,uganda,africa,61,0
+"* as of April 22, 2020",,,,
